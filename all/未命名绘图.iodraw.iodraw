@@ -114,8 +114,20 @@
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-25" value="生长速率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="260" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-26" value="耐盐性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="260" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="250" as="sourcePoint" />
+            <mxPoint x="160" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="230" as="sourcePoint" />
+            <mxPoint x="210" y="180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
