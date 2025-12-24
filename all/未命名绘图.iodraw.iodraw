@@ -534,8 +534,8 @@
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-192" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="217.25" y="610" as="sourcePoint" />
-            <mxPoint x="217.25" y="600" as="targetPoint" />
+            <mxPoint x="219" y="610" as="sourcePoint" />
+            <mxPoint x="219" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-194" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -547,7 +547,7 @@
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-196" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="600" as="sourcePoint" />
-            <mxPoint x="300" y="560" as="targetPoint" />
+            <mxPoint x="220" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
