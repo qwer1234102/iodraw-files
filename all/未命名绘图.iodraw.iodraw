@@ -344,10 +344,10 @@
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-107" value="理化指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="490" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-108" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="7-t5Vmp-1V-8K2hR-Gz1-102">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-108" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="490" as="sourcePoint" />
-            <mxPoint x="340" y="540" as="targetPoint" />
+            <mxPoint x="120" y="480" as="sourcePoint" />
+            <mxPoint x="120" y="500" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
