@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-1" value="自然发酵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-1" value="&lt;b&gt;自然发酵&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="20" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
