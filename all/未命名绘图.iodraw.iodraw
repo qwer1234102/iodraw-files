@@ -162,7 +162,7 @@
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-37" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;生理生化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="250" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-38" value="16sRNA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="250" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
