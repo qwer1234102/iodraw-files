@@ -282,21 +282,18 @@
             <mxPoint x="279.75" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-84" value="接种发酵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="380" width="80" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-86" value="自然发酵" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="380" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7-t5Vmp-1V-8K2hR-Gz1-78" target="7-t5Vmp-1V-8K2hR-Gz1-84">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7-t5Vmp-1V-8K2hR-Gz1-78">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="320" as="sourcePoint" />
-            <mxPoint x="340" y="270" as="targetPoint" />
+            <mxPoint x="190" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-91" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7-t5Vmp-1V-8K2hR-Gz1-84">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-91" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="290" y="420" as="sourcePoint" />
+            <mxPoint x="190" y="410" as="sourcePoint" />
             <mxPoint x="190" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -332,6 +329,11 @@
             <mxPoint x="250" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-111" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7-t5Vmp-1V-8K2hR-Gz1-102">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="181.60000000000002" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-102" value="风味组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="490" width="50" height="60" as="geometry" />
         </mxCell>
@@ -344,7 +346,7 @@
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-107" value="理化指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="490" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-110" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-110" value="" style="endArrow=none;html=1;rounded=0;endSize=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="470" as="sourcePoint" />
             <mxPoint x="120" y="490" as="targetPoint" />
