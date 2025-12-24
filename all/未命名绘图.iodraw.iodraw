@@ -32,12 +32,12 @@
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="150" as="sourcePoint" />
-            <mxPoint x="260" y="170" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="260" y="160" />
-            </Array>
+            <mxPoint x="209.75" y="110" as="sourcePoint" />
+            <mxPoint x="209.75" y="130" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="150" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
