@@ -240,6 +240,9 @@
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-66" value="明胶水解实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="310" width="120" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-68" value="革兰氏染色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="120" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
