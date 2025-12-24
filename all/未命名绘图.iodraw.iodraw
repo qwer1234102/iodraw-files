@@ -358,10 +358,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-123" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;菌群结构&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="560" width="20" height="60" as="geometry" />
+          <mxGeometry x="280" y="560" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-124" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;功能基因&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="125" y="560" width="20" height="60" as="geometry" />
+          <mxGeometry x="310" y="560" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-125" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7-t5Vmp-1V-8K2hR-Gz1-124" target="7-t5Vmp-1V-8K2hR-Gz1-124">
           <mxGeometry relative="1" as="geometry" />
