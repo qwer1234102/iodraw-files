@@ -332,8 +332,11 @@
             <mxPoint x="250" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-113" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7-t5Vmp-1V-8K2hR-Gz1-102" target="7-t5Vmp-1V-8K2hR-Gz1-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-102" value="风味组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="490" width="50" height="60" as="geometry" />
+          <mxGeometry x="95" y="510" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-105" value="代谢组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="490" width="50" height="60" as="geometry" />
