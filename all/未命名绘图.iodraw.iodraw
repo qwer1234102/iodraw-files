@@ -7,7 +7,7 @@
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-1" value="&lt;b&gt;自然发酵腐乳&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="30" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=36.5;endSize=7.035;" edge="1" parent="1">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=14;endSize=8.035;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="100" as="sourcePoint" />
             <mxPoint x="390" y="100" as="targetPoint" />
@@ -21,10 +21,10 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7-t5Vmp-1V-8K2hR-Gz1-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="80" as="sourcePoint" />
-            <mxPoint x="210" y="30" as="targetPoint" />
+            <mxPoint x="210" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
