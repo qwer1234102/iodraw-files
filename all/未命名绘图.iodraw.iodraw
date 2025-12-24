@@ -361,7 +361,7 @@
           <mxGeometry x="95" y="560" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-124" value="功能基因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="560" width="20" height="60" as="geometry" />
+          <mxGeometry x="125" y="560" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
