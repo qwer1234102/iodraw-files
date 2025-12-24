@@ -333,7 +333,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-102" value="风味组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="95" y="500" width="50" height="60" as="geometry" />
+          <mxGeometry x="95" y="490" width="50" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-105" value="代谢组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="185" y="490" width="50" height="60" as="geometry" />
@@ -343,6 +343,12 @@
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-107" value="理化指标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="490" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-110" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="540" as="sourcePoint" />
+            <mxPoint x="260" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
