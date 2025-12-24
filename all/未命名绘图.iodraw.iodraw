@@ -516,71 +516,14 @@
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-160" value="质构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="590" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-161" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-175" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="710" as="sourcePoint" />
-            <mxPoint x="480" y="710" as="targetPoint" />
+            <mxPoint x="435" y="629.7" as="sourcePoint" />
+            <mxPoint x="465" y="629.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-162" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="790" as="sourcePoint" />
-            <mxPoint x="480" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-163" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="630" as="sourcePoint" />
-            <mxPoint x="510" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-164" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="660" as="sourcePoint" />
-            <mxPoint x="510" y="660" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-165" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="689.7" as="sourcePoint" />
-            <mxPoint x="510" y="689.7" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-166" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="724.4" as="sourcePoint" />
-            <mxPoint x="510" y="724.4" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-167" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="759.39" as="sourcePoint" />
-            <mxPoint x="510" y="759.39" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-168" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="789.7" as="sourcePoint" />
-            <mxPoint x="510" y="789.7" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-169" value="革兰氏染色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="620" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-170" value="普洛斯考儿实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="650" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-171" value="甲基红实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="680" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-172" value="吲哚生产实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="714.7" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-173" value="明胶水解实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="750" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-174" value="革兰氏染色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="780" width="120" height="20" as="geometry" />
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-176" value="质构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="620" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
