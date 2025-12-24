@@ -571,7 +571,7 @@
             <mxPoint x="378.75" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-208" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;代谢物差异&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-208" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;菌群结构&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="610" width="33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-209" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;差异代谢物通路&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
