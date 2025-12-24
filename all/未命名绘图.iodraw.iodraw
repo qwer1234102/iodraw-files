@@ -312,6 +312,20 @@
             <mxPoint x="310" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-97" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=14;endSize=8.035;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="450" as="sourcePoint" />
+            <mxPoint x="400" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-98" value="动态取样" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7-t5Vmp-1V-8K2hR-Gz1-97">
+          <mxGeometry x="-0.0788" y="-2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
