@@ -135,7 +135,7 @@
             <mxPoint x="210" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-32" value="生长速率" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-32" value="产酶能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="260" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-33" value="耐盐性" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
