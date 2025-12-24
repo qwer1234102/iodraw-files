@@ -397,12 +397,6 @@
             <mxPoint x="383.92" y="765.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-144" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="378.75" y="600" as="sourcePoint" />
-            <mxPoint x="378.75" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-145" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="353.92" y="765.5" as="sourcePoint" />
@@ -573,32 +567,32 @@
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-207" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="409.75" y="610" as="sourcePoint" />
-            <mxPoint x="409.75" y="600" as="targetPoint" />
+            <mxPoint x="378.75" y="600" as="sourcePoint" />
+            <mxPoint x="378.75" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-208" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;代谢物差异&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="620" width="33" height="80" as="geometry" />
+          <mxGeometry x="339" y="610" width="33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-209" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;差异代谢物通路&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="417" y="620" width="33" height="80" as="geometry" />
+          <mxGeometry x="386" y="610" width="33" height="80" as="geometry" />
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-210" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="435" y="620" as="sourcePoint" />
-            <mxPoint x="435" y="610" as="targetPoint" />
+            <mxPoint x="404" y="610" as="sourcePoint" />
+            <mxPoint x="404" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-211" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="386.25" y="620" as="sourcePoint" />
-            <mxPoint x="386.25" y="610" as="targetPoint" />
+            <mxPoint x="355.25" y="610" as="sourcePoint" />
+            <mxPoint x="355.25" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-212" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="386" y="610" as="sourcePoint" />
-            <mxPoint x="436" y="610" as="targetPoint" />
+            <mxPoint x="355" y="600" as="sourcePoint" />
+            <mxPoint x="405" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
