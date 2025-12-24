@@ -197,8 +197,8 @@
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-55" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="250" as="sourcePoint" />
-            <mxPoint x="410" y="250" as="targetPoint" />
+            <mxPoint x="380" y="220" as="sourcePoint" />
+            <mxPoint x="410" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-56" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -229,7 +229,7 @@
           <mxGeometry x="410" y="180" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-61" value="普洛斯考儿实验" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="240" width="120" height="20" as="geometry" />
+          <mxGeometry x="410" y="210" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
