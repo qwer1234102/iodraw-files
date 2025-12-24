@@ -321,9 +321,6 @@
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-102" value="风味组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="490" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-105" value="代谢组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="490" width="50" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-106" value="宏基因组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="490" width="50" height="60" as="geometry" />
         </mxCell>
@@ -367,10 +364,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-126" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;代谢物差异&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="560" width="20" height="60" as="geometry" />
+          <mxGeometry x="185" y="570" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-127" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;差异代谢物通路&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="215" y="560" width="20" height="60" as="geometry" />
+          <mxGeometry x="215" y="570" width="20" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-128" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;GC-MS&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="570" width="20" height="60" as="geometry" />
@@ -402,7 +399,7 @@
             <mxPoint x="134.83" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-134" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-134" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="7-t5Vmp-1V-8K2hR-Gz1-105">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="559.67" as="sourcePoint" />
             <mxPoint x="240" y="559.67" as="targetPoint" />
@@ -425,6 +422,15 @@
             <mxPoint x="239.83" y="560" as="sourcePoint" />
             <mxPoint x="239.83" y="570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-138" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="7-t5Vmp-1V-8K2hR-Gz1-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="559.67" as="sourcePoint" />
+            <mxPoint x="240" y="559.67" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-105" value="代谢组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="500" width="50" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
