@@ -69,13 +69,13 @@
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-20" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7-t5Vmp-1V-8K2hR-Gz1-16" target="7-t5Vmp-1V-8K2hR-Gz1-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-16" value="&lt;b&gt;初筛&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-16" value="初筛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="210" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-17" value="&lt;b&gt;复筛&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-17" value="复筛" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="210" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-18" value="&lt;b&gt;鉴定&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-18" value="鉴定" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="210" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-21" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -242,6 +242,12 @@
         </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-68" value="革兰氏染色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="340" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="290" as="sourcePoint" />
+            <mxPoint x="340" y="240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
