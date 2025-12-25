@@ -268,6 +268,9 @@
             <mxPoint x="353.75" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ANgGNJhcxGFvz5nTLyGI-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7-t5Vmp-1V-8K2hR-Gz1-84" target="7-t5Vmp-1V-8K2hR-Gz1-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7-t5Vmp-1V-8K2hR-Gz1-84" value="接种发酵" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="224" y="420" width="80" height="30" as="geometry" />
         </mxCell>
@@ -465,7 +468,7 @@
             <Array as="points">
               <mxPoint x="674" y="460" />
               <mxPoint x="674" y="700" />
-              <mxPoint x="144" y="700" />
+              <mxPoint x="132" y="704" />
             </Array>
           </mxGeometry>
         </mxCell>
