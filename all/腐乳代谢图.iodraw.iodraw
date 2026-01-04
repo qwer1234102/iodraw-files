@@ -615,8 +615,8 @@
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="356.5" y="-985" as="sourcePoint" />
-            <mxPoint x="321.5" y="-985.17" as="targetPoint" />
+            <mxPoint x="356.5" y="-1055" as="sourcePoint" />
+            <mxPoint x="321.5" y="-1055.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-21" value="&lt;b&gt;磷酸烯醇式丙酮酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
