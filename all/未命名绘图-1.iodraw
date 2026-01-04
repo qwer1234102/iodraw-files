@@ -645,7 +645,7 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-27" value="&lt;b&gt;乙酰辅酶A&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="374" y="-870" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-30" value="&lt;b&gt;2-同戊二酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-30" value="&lt;b&gt;2-酮戊二酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="-810" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-34" value="&lt;b&gt;琥珀酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -658,7 +658,7 @@
           <mxGeometry x="299" y="-812" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-37" value="&lt;b&gt;草酰乙酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="365" y="-842" width="70" height="30" as="geometry" />
+          <mxGeometry x="379" y="-840" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
