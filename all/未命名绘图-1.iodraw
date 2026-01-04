@@ -606,9 +606,9 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-18" value="&lt;b&gt;a-D葡萄糖-1-磷酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="354" y="-1070" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.512;exitY=1.027;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-18">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="-1030" as="sourcePoint" />
+            <mxPoint x="415" y="-1030" as="sourcePoint" />
             <mxPoint x="415" y="-1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
