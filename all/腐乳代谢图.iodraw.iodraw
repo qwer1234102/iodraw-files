@@ -782,7 +782,7 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-93" value="&lt;b&gt;苯乙醛&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="940" y="-1100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-97" value="&lt;b&gt;苯乙醇&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-97" value="&lt;b&gt;苯乙醇&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="940" y="-1150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-98" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-73" target="dSX8d3Et7gaFXjt-a4co-80">
@@ -874,7 +874,7 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-122" value="&lt;b&gt;己酸乙酯&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="845" y="-1190" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-128" value="&lt;b&gt;2-戊基呋喃&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-128" value="&lt;b&gt;2-戊基呋喃&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="785" y="-1080" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-131" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
