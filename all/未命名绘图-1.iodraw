@@ -548,7 +548,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ueiyKJy_TmvnG7xGqcpL" name="第 2 页">
-    <mxGraphModel dx="347" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="347" dy="1840" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -799,7 +799,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-71" value="&lt;b&gt;L-赖氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="555" y="-1022" width="70" height="30" as="geometry" />
+          <mxGeometry x="575" y="-1010" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
