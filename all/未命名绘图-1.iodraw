@@ -1052,10 +1052,13 @@
             <mxPoint x="810" y="-1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-158" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSX8d3Et7gaFXjt-a4co-157">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-158" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;水解酶&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSX8d3Et7gaFXjt-a4co-157">
           <mxGeometry x="-0.1873" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-159" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="-1052" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
