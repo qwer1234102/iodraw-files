@@ -831,8 +831,11 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-82" value="&lt;b&gt;分支酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="790" y="-920" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-84" value="络氨酸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-892" width="60" height="30" as="geometry" />
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-84" value="&lt;b&gt;络氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-882" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-85" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="840" y="-882" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
