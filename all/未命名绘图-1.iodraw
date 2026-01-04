@@ -865,12 +865,12 @@
           <mxGeometry x="850" y="-812" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-93" value="&lt;b&gt;苯乙醛&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="855" y="-730" width="60" height="30" as="geometry" />
+          <mxGeometry x="855" y="-750" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-95" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="-770" as="sourcePoint" />
-            <mxPoint x="880" y="-730" as="targetPoint" />
+            <mxPoint x="884.83" y="-782" as="sourcePoint" />
+            <mxPoint x="884.83" y="-742" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
