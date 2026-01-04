@@ -579,8 +579,8 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-7" value="&lt;b&gt;淀粉&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="389" y="-1120" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-8" value="脂肪酸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-1132" width="60" height="30" as="geometry" />
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-8" value="&lt;b&gt;脂肪酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-1132" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
