@@ -780,8 +780,8 @@
             <mxPoint x="480" y="-950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-67" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-972" width="40" height="30" as="geometry" />
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-67" value="L-天冬氨酸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="-972" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
