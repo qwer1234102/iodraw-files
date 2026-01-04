@@ -603,7 +603,7 @@
             <mxPoint x="416" y="-1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-18" value="a-D葡萄糖-1-磷酸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-18" value="&lt;b&gt;a-D葡萄糖-1-磷酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="354" y="-1070" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
