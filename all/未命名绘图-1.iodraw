@@ -909,6 +909,12 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-108" value="&lt;b&gt;乙酰胆碱&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="-850" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-109" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="-770" as="sourcePoint" />
+            <mxPoint x="330" y="-820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
