@@ -819,17 +819,19 @@
             <mxPoint x="780" y="-957" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-80" value="&lt;b&gt;3-脱氢奎宁酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="770" y="-972" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-81" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.478;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-80">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-81" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.478;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="-970" as="sourcePoint" />
+            <mxPoint x="817.8" y="-942.6" as="sourcePoint" />
             <mxPoint x="818" y="-910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="-942" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-82" value="&lt;b&gt;分支酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="790" y="-920" width="60" height="30" as="geometry" />
+          <mxGeometry x="790" y="-910" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
