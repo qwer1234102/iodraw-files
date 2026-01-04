@@ -981,10 +981,10 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-155" value="&lt;b&gt;环氧脂肪酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="675" y="-1030" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-157" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.97;exitY=0.558;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-157" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.97;exitY=0.558;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.014;entryY=0.589;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dSX8d3Et7gaFXjt-a4co-159">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="-1015.1700000000001" as="sourcePoint" />
-            <mxPoint x="810" y="-1030" as="targetPoint" />
+            <mxPoint x="765" y="-1015.1700000000001" as="sourcePoint" />
+            <mxPoint x="815" y="-1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-158" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;水解酶&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSX8d3Et7gaFXjt-a4co-157">
@@ -993,7 +993,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-159" value="&lt;b&gt;脂肪酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="800" y="-1050" width="60" height="30" as="geometry" />
+          <mxGeometry x="820" y="-1040" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-160" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-149">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
