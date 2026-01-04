@@ -783,10 +783,10 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-67" value="&lt;b&gt;L-天冬氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="-972" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-68" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.475;exitY=-0.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-67">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-68" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="-900" as="sourcePoint" />
-            <mxPoint x="515" y="-1000" as="targetPoint" />
+            <mxPoint x="516" y="-980" as="sourcePoint" />
+            <mxPoint x="516.13" y="-1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
