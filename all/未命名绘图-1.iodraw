@@ -648,8 +648,8 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-30" value="&lt;b&gt;2-同戊二酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="-810" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.3;endAngle=0.1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-870" width="100" height="100" as="geometry" />
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.28336521773990403;endAngle=0.1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-840" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
