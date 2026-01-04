@@ -579,15 +579,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-6" value="&lt;b&gt;多肽&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="255" y="-1165" width="50" height="30" as="geometry" />
+          <mxGeometry x="205" y="-1155" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-7" value="&lt;b&gt;淀粉&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="389" y="-1120" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="-1130" as="sourcePoint" />
-            <mxPoint x="280" y="-1070" as="targetPoint" />
+            <mxPoint x="300" y="-1120" as="sourcePoint" />
+            <mxPoint x="230" y="-1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-137" value="&lt;b&gt;内肽酶&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSX8d3Et7gaFXjt-a4co-10">
@@ -596,7 +596,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-11" value="游&lt;b&gt;离氨基酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-970" width="90" height="30" as="geometry" />
+          <mxGeometry x="190" y="-960" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.533;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -950,12 +950,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-138" value="&lt;b&gt;短肽&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="255" y="-1062" width="50" height="30" as="geometry" />
+          <mxGeometry x="205" y="-1052" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-139" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.488;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.435;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-138" target="dSX8d3Et7gaFXjt-a4co-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="-980" as="sourcePoint" />
-            <mxPoint x="320" y="-1030" as="targetPoint" />
+            <mxPoint x="220" y="-970" as="sourcePoint" />
+            <mxPoint x="270" y="-1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-140" value="&lt;b&gt;肽酶&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSX8d3Et7gaFXjt-a4co-139">
@@ -1063,7 +1063,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-165" value="&lt;b&gt;ko：00020&lt;/b&gt;&lt;div&gt;&lt;b&gt;三羧酸循环&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="345" y="-767" width="90" height="40" as="geometry" />
+          <mxGeometry x="364" y="-755" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
