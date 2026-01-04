@@ -642,8 +642,8 @@
             <mxPoint x="412.99999999999994" y="-900.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="394" y="-870" width="40" height="30" as="geometry" />
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-27" value="&lt;b&gt;乙酰辅酶A&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="374" y="-870" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
