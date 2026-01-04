@@ -952,7 +952,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-122" value="&lt;b&gt;己酸乙酯&lt;/b&gt;&lt;div&gt;&lt;b&gt;辛酸乙酯&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="585" y="-1177" width="70" height="40" as="geometry" />
+          <mxGeometry x="605" y="-1175" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-123" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="-1130" as="sourcePoint" />
+            <mxPoint x="530" y="-1180" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
