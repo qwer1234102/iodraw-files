@@ -746,11 +746,8 @@
             <mxPoint x="524.96" y="-900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-226" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-69" target="dSX8d3Et7gaFXjt-a4co-179">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-69" value="&lt;b&gt;L-丙氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-870" width="70" height="30" as="geometry" />
+          <mxGeometry x="490" y="-857" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-71" value="&lt;b&gt;L-赖氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="645" y="-897.5" width="70" height="30" as="geometry" />
