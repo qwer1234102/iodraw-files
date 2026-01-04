@@ -747,10 +747,13 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-59" value="&lt;b&gt;4-氨基丁酸（GABA）&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="-870" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.988;exitY=0.08;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-48" target="dSX8d3Et7gaFXjt-a4co-61">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.988;exitY=0.08;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.167;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-48" target="dSX8d3Et7gaFXjt-a4co-61">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="-790" as="sourcePoint" />
             <mxPoint x="640" y="-830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="-820" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-61" value="&lt;b&gt;脯氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
