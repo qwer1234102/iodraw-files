@@ -891,8 +891,8 @@
             <mxPoint x="555" y="-995.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-105" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="-1012" width="40" height="30" as="geometry" />
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-105" value="甘氨酸" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="-1010" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
