@@ -586,8 +586,8 @@
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="165" y="-1098" as="sourcePoint" />
-            <mxPoint x="165" y="-1033" as="targetPoint" />
+            <mxPoint x="165" y="-1089" as="sourcePoint" />
+            <mxPoint x="165" y="-1024" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-137" value="&lt;b&gt;内肽酶&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSX8d3Et7gaFXjt-a4co-10">
@@ -944,12 +944,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-138" value="&lt;b&gt;短肽&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="-1025" width="50" height="30" as="geometry" />
+          <mxGeometry x="140" y="-1016" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-139" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.488;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.435;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-138">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="155" y="-943" as="sourcePoint" />
-            <mxPoint x="164.1500000000001" y="-930" as="targetPoint" />
+            <mxPoint x="155" y="-934" as="sourcePoint" />
+            <mxPoint x="164.1500000000001" y="-921" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-140" value="&lt;b&gt;肽酶&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSX8d3Et7gaFXjt-a4co-139">
