@@ -863,9 +863,9 @@
           <mxGeometry x="525" y="-1020" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-105" value="&lt;b&gt;甘氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="615" y="-1020" width="60" height="30" as="geometry" />
+          <mxGeometry x="625" y="-1020" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-106" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.761;exitY=-0.047;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.838;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dSX8d3Et7gaFXjt-a4co-105">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-106" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.452;exitY=-0.016;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.698;entryY=1.069;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-63" target="dSX8d3Et7gaFXjt-a4co-105">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="675" y="-961" as="sourcePoint" />
             <mxPoint x="700" y="-981" as="targetPoint" />
