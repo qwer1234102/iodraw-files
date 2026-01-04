@@ -963,7 +963,7 @@
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-154" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;环氧化酶&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSX8d3Et7gaFXjt-a4co-153">
           <mxGeometry x="-0.4535" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="23" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-155" value="&lt;b&gt;环氧脂肪酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
