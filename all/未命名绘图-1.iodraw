@@ -651,6 +651,9 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-34" value="&lt;b&gt;琥珀酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="-770" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-35" value="&lt;b&gt;延胡索酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="-782" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
