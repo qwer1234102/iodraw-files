@@ -1262,8 +1262,8 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-260" value="&lt;b&gt;酶代谢通路&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="918" y="-657.5" width="82" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-261" value="&lt;b&gt;酶代谢通路&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="923" y="-616" width="82" height="26" as="geometry" />
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-261" value="&lt;b&gt;氨基酸代谢通路&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-616" width="108" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
