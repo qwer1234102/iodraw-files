@@ -1065,8 +1065,8 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-165" value="&lt;b&gt;ko：00020&lt;/b&gt;&lt;div&gt;&lt;b&gt;三羧酸循环&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="364" y="-755" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-166" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="270" y="-1002" width="40" height="30" as="geometry" />
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-166" value="&lt;b&gt;组氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-1002" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
