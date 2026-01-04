@@ -966,8 +966,8 @@
             <mxPoint x="544" y="-1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-128" value="2-戊基呋喃" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="495" y="-1072" width="90" height="30" as="geometry" />
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-128" value="&lt;b&gt;2-戊基呋喃&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-1060" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
