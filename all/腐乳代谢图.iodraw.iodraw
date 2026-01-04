@@ -613,6 +613,12 @@
             <mxPoint x="415" y="-1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="-965" as="sourcePoint" />
+            <mxPoint x="325" y="-965.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-21" value="&lt;b&gt;磷酸烯醇式丙酮酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="350" y="-1000" width="130" height="30" as="geometry" />
         </mxCell>
@@ -1066,7 +1072,7 @@
           <mxGeometry x="364" y="-755" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-166" value="&lt;b&gt;组氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="-1002" width="60" height="30" as="geometry" />
+          <mxGeometry x="265" y="-1000" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
