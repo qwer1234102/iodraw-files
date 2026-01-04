@@ -648,6 +648,16 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-30" value="&lt;b&gt;2-同戊二酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="-810" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-31" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.333;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dSX8d3Et7gaFXjt-a4co-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="-810" as="sourcePoint" />
+            <mxPoint x="440" y="-850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="-800" />
+              <mxPoint x="390" y="-850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
