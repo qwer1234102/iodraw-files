@@ -649,7 +649,10 @@
           <mxGeometry x="460" y="-810" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.24832474668227633;endAngle=0.1847850002997419;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-840" width="100" height="100" as="geometry" />
+          <mxGeometry x="374" y="-840" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-760" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
