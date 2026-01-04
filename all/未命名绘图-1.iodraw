@@ -823,58 +823,58 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-82" value="&lt;b&gt;分支酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="790" y="-920" width="60" height="30" as="geometry" />
+          <mxGeometry x="790" y="-870" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-84" value="&lt;b&gt;络氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="730" y="-882" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-85" value="&lt;b&gt;苯丙氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="850" y="-882" width="70" height="30" as="geometry" />
+          <mxGeometry x="850" y="-832" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-86" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.49;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.021;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="769.9999999999999" y="-877.8700000000001" as="sourcePoint" />
-            <mxPoint x="799.34" y="-900" as="targetPoint" />
+            <mxPoint x="769.9999999999999" y="-827.8700000000001" as="sourcePoint" />
+            <mxPoint x="799.34" y="-850" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-87" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.023;exitY=0.576;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.039;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-84" target="dSX8d3Et7gaFXjt-a4co-85">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-87" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.023;exitY=0.576;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.039;entryY=0.558;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dSX8d3Et7gaFXjt-a4co-85">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="-900" as="sourcePoint" />
-            <mxPoint x="790" y="-950" as="targetPoint" />
+            <mxPoint x="791.3800000000001" y="-814.72" as="sourcePoint" />
+            <mxPoint x="790" y="-900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-88" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.97;exitY=0.607;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.325;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="845.45" y="-900" as="sourcePoint" />
-            <mxPoint x="870" y="-880" as="targetPoint" />
+            <mxPoint x="845.45" y="-850" as="sourcePoint" />
+            <mxPoint x="870" y="-830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-89" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="885" y="-850" as="sourcePoint" />
-            <mxPoint x="885" y="-810" as="targetPoint" />
+            <mxPoint x="885" y="-800" as="sourcePoint" />
+            <mxPoint x="885" y="-760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-90" value="&lt;b&gt;苯丙酮酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="850" y="-812" width="70" height="30" as="geometry" />
+          <mxGeometry x="850" y="-762" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-93" value="&lt;b&gt;苯乙醛&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="855" y="-750" width="60" height="30" as="geometry" />
+          <mxGeometry x="855" y="-700" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-95" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="884.83" y="-782" as="sourcePoint" />
-            <mxPoint x="884.83" y="-742" as="targetPoint" />
+            <mxPoint x="884.83" y="-732" as="sourcePoint" />
+            <mxPoint x="884.83" y="-692" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-96" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="884.83" y="-720" as="sourcePoint" />
-            <mxPoint x="884.83" y="-680" as="targetPoint" />
+            <mxPoint x="884.83" y="-670" as="sourcePoint" />
+            <mxPoint x="884.83" y="-630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-97" value="&lt;b&gt;苯乙醇&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="855" y="-682" width="60" height="30" as="geometry" />
+          <mxGeometry x="855" y="-632" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
