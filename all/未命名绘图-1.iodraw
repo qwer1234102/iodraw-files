@@ -595,9 +595,10 @@
           <mxGeometry x="230" y="-1100" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-15" value="&lt;b&gt;氨基酸代谢&lt;/b&gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=0.561;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-11">
-          <mxGeometry width="160" relative="1" as="geometry">
+          <mxGeometry x="0.0018" width="160" relative="1" as="geometry">
             <mxPoint x="290" y="-1090" as="sourcePoint" />
             <mxPoint x="280" y="-1000" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.533;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-7">
