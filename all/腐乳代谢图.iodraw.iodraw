@@ -895,12 +895,6 @@
             <mxPoint x="970.1599999999999" y="-1016.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-133" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="969.83" y="-1040" as="sourcePoint" />
-            <mxPoint x="969.83" y="-1070" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-138" value="&lt;b&gt;短肽&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="140" y="-1016" width="50" height="30" as="geometry" />
         </mxCell>
