@@ -899,6 +899,11 @@
             <mxPoint x="220" y="-870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-194" value="ADH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSX8d3Et7gaFXjt-a4co-115">
+          <mxGeometry x="-0.2791" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-116" value="&lt;b&gt;乙醇&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="215" y="-890" width="50" height="30" as="geometry" />
         </mxCell>
