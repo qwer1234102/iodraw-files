@@ -580,7 +580,7 @@
           <mxGeometry x="389" y="-1120" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-8" value="&lt;b&gt;脂肪酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="525" y="-1170" width="60" height="30" as="geometry" />
+          <mxGeometry x="515" y="-1170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -947,9 +947,12 @@
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-121" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.057;exitY=0.493;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="579.4200000000001" y="-1155.17" as="sourcePoint" />
-            <mxPoint x="621" y="-1154.96" as="targetPoint" />
+            <mxPoint x="570.0000000000001" y="-1155.17" as="sourcePoint" />
+            <mxPoint x="611.58" y="-1154.96" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-122" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-1172" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
