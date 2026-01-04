@@ -814,7 +814,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-80" value="&lt;b&gt;3-脱氢奎宁酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="770" y="-972" width="100" height="30" as="geometry" />
+          <mxGeometry x="770" y="-940" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-81" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.478;exitY=0.98;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.472;entryY=0.091;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-80" target="dSX8d3Et7gaFXjt-a4co-82">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -826,7 +826,7 @@
           <mxGeometry x="790" y="-870" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-84" value="&lt;b&gt;络氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="730" y="-882" width="60" height="30" as="geometry" />
+          <mxGeometry x="730" y="-832" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-85" value="&lt;b&gt;苯丙氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="850" y="-832" width="70" height="30" as="geometry" />
