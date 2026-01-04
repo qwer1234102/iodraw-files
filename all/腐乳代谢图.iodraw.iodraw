@@ -1256,8 +1256,8 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-257" value="&lt;b&gt;上调的产物&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="915" y="-740" width="82" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-259" value="&lt;b&gt;上调的产物&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="951" y="-692" width="82" height="26" as="geometry" />
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-259" value="&lt;b&gt;下降的产物&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="918" y="-700" width="82" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
