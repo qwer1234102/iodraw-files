@@ -1071,8 +1071,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-162" value="乙酰辅酶A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-1112" width="80" height="30" as="geometry" />
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-162" value="&lt;b&gt;乙酰辅酶A&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-1110" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
