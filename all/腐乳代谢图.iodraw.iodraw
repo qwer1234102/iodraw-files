@@ -719,7 +719,7 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-61" value="&lt;b&gt;脯氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="720" y="-829.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-62" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.012;exitY=0.573;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-62" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.012;exitY=0.573;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="dSX8d3Et7gaFXjt-a4co-67">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="438.9999999999999" y="-914.9799999999999" as="sourcePoint" />
             <mxPoint x="474.28" y="-915.17" as="targetPoint" />
