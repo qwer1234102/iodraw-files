@@ -983,10 +983,15 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-138" value="&lt;b&gt;短肽&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="255" y="-1062" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-139" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-139" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.488;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.435;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-138" target="dSX8d3Et7gaFXjt-a4co-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="-980" as="sourcePoint" />
             <mxPoint x="320" y="-1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-140" value="&lt;b&gt;肽酶&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSX8d3Et7gaFXjt-a4co-139">
+          <mxGeometry x="-0.0807" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
