@@ -1116,8 +1116,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-190" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-1160" width="120" height="60" as="geometry" />
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-190" value="3.1.1.3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="560" y="-1165" width="40" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
