@@ -721,14 +721,14 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-54" value="&lt;b&gt;精氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="555" y="-730" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-55" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-55" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="dSX8d3Et7gaFXjt-a4co-56">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="615" y="-715.068" as="sourcePoint" />
             <mxPoint x="660" y="-715.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-56" value="&lt;b&gt;鸟氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="-730" width="60" height="30" as="geometry" />
+          <mxGeometry x="660" y="-730" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-57" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.839;entryY=1.049;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.312;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-56" target="dSX8d3Et7gaFXjt-a4co-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
