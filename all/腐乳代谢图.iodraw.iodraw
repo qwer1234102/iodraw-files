@@ -762,7 +762,7 @@
           <mxGeometry x="800" y="-991" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-85" value="&lt;b&gt;苯丙氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="940" y="-990" width="70" height="30" as="geometry" />
+          <mxGeometry x="995" y="-990" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-86" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.49;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.021;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -783,13 +783,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-90" value="&lt;b&gt;苯丙酮酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="915" y="-1050" width="70" height="30" as="geometry" />
+          <mxGeometry x="970" y="-1050" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-93" value="&lt;b&gt;苯乙醛&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="920" y="-1100" width="60" height="30" as="geometry" />
+          <mxGeometry x="975" y="-1100" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-97" value="&lt;b&gt;苯乙醇&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="920" y="-1150" width="60" height="30" as="geometry" />
+          <mxGeometry x="975" y="-1150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-98" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-73" target="dSX8d3Et7gaFXjt-a4co-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -891,20 +891,20 @@
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-132" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="950.23" y="-990" as="sourcePoint" />
-            <mxPoint x="949.7600000000001" y="-1018.12" as="targetPoint" />
+            <mxPoint x="1005.23" y="-990" as="sourcePoint" />
+            <mxPoint x="1004.7600000000001" y="-1018.12" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-133" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="950.23" y="-1041.88" as="sourcePoint" />
-            <mxPoint x="949.7600000000001" y="-1070" as="targetPoint" />
+            <mxPoint x="1005.23" y="-1041.88" as="sourcePoint" />
+            <mxPoint x="1004.7600000000001" y="-1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-134" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="950.23" y="-1091.88" as="sourcePoint" />
-            <mxPoint x="949.7600000000001" y="-1120" as="targetPoint" />
+            <mxPoint x="1005.23" y="-1091.88" as="sourcePoint" />
+            <mxPoint x="1004.7600000000001" y="-1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-138" value="&lt;b&gt;短肽&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
