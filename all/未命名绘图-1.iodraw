@@ -918,6 +918,9 @@
             <mxPoint x="230" y="-835.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-110" value="&lt;b&gt;乙酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="-852" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
