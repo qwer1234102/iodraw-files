@@ -855,10 +855,10 @@
             <mxPoint x="870" y="-880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-89" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-89" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.393;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-85">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="-830" as="sourcePoint" />
-            <mxPoint x="790" y="-880" as="targetPoint" />
+            <mxPoint x="880" y="-780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
