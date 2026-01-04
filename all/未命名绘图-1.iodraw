@@ -702,9 +702,6 @@
             <mxPoint x="560" y="-797" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-48" target="dSX8d3Et7gaFXjt-a4co-50">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-48" value="&lt;b&gt;L-谷氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="-812" width="70" height="30" as="geometry" />
         </mxCell>
@@ -716,6 +713,12 @@
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-50" value="&lt;b&gt;谷氨酸钠&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="-812" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="-780" as="sourcePoint" />
+            <mxPoint x="610" y="-780" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
