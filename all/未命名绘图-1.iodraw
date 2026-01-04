@@ -1035,10 +1035,10 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-153" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.801;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-148">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="660" y="-1000" as="sourcePoint" />
-            <mxPoint x="700" y="-1010" as="targetPoint" />
+            <mxPoint x="690" y="-1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-154" value="环氧化酶" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSX8d3Et7gaFXjt-a4co-153">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-154" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;&lt;b&gt;环氧化酶&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSX8d3Et7gaFXjt-a4co-153">
           <mxGeometry x="-0.4535" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
