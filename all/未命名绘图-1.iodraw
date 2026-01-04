@@ -643,118 +643,118 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-27" value="&lt;b&gt;乙酰辅酶A&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="374" y="-800" width="80" height="30" as="geometry" />
+          <mxGeometry x="93" y="-790" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-30" value="&lt;b&gt;2-酮戊二酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="474" y="-700" width="60" height="30" as="geometry" />
+          <mxGeometry x="193" y="-690" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-34" value="&lt;b&gt;琥珀酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="394" y="-650" width="60" height="30" as="geometry" />
+          <mxGeometry x="113" y="-640" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-35" value="&lt;b&gt;延胡索酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="304" y="-670" width="70" height="30" as="geometry" />
+          <mxGeometry x="23" y="-660" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-36" value="&lt;b&gt;D-苹果酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="-720" width="70" height="30" as="geometry" />
+          <mxGeometry x="9" y="-710" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-37" value="&lt;b&gt;草酰乙酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-742" width="70" height="30" as="geometry" />
+          <mxGeometry x="99" y="-732" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.986;exitY=0.64;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-37" target="dSX8d3Et7gaFXjt-a4co-30">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="-690" as="sourcePoint" />
-            <mxPoint x="440" y="-740" as="targetPoint" />
+            <mxPoint x="109" y="-680" as="sourcePoint" />
+            <mxPoint x="159" y="-730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-30" target="dSX8d3Et7gaFXjt-a4co-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="-620" as="sourcePoint" />
-            <mxPoint x="440" y="-670" as="targetPoint" />
+            <mxPoint x="109" y="-610" as="sourcePoint" />
+            <mxPoint x="159" y="-660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.677;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-34" target="dSX8d3Et7gaFXjt-a4co-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="-620" as="sourcePoint" />
-            <mxPoint x="440" y="-670" as="targetPoint" />
+            <mxPoint x="109" y="-610" as="sourcePoint" />
+            <mxPoint x="159" y="-660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.33;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.527;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-35" target="dSX8d3Et7gaFXjt-a4co-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="-620" as="sourcePoint" />
-            <mxPoint x="440" y="-670" as="targetPoint" />
+            <mxPoint x="109" y="-610" as="sourcePoint" />
+            <mxPoint x="159" y="-660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.04;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.003;entryY=0.409;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-36" target="dSX8d3Et7gaFXjt-a4co-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="-650" as="sourcePoint" />
-            <mxPoint x="440" y="-700" as="targetPoint" />
+            <mxPoint x="109" y="-640" as="sourcePoint" />
+            <mxPoint x="159" y="-690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414.83" y="-770" as="sourcePoint" />
-            <mxPoint x="414.83" y="-740" as="targetPoint" />
+            <mxPoint x="133.82999999999998" y="-760" as="sourcePoint" />
+            <mxPoint x="133.82999999999998" y="-730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-47" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.039;exitY=0.498;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="-650" as="sourcePoint" />
-            <mxPoint x="560" y="-727" as="targetPoint" />
+            <mxPoint x="109" y="-640" as="sourcePoint" />
+            <mxPoint x="279" y="-717" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-48" value="&lt;b&gt;L-谷氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="550" y="-742" width="70" height="30" as="geometry" />
+          <mxGeometry x="269" y="-732" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="-727.17" as="sourcePoint" />
-            <mxPoint x="650" y="-727.17" as="targetPoint" />
+            <mxPoint x="339" y="-717.17" as="sourcePoint" />
+            <mxPoint x="369" y="-717.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-50" value="&lt;b&gt;谷氨酸钠&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="-742" width="70" height="30" as="geometry" />
+          <mxGeometry x="369" y="-732" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="dSX8d3Et7gaFXjt-a4co-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="584.83" y="-715" as="sourcePoint" />
-            <mxPoint x="584.83" y="-695" as="targetPoint" />
+            <mxPoint x="303.83000000000004" y="-705" as="sourcePoint" />
+            <mxPoint x="303.83000000000004" y="-685" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-54" value="&lt;b&gt;精氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="555" y="-680" width="60" height="30" as="geometry" />
+          <mxGeometry x="274" y="-670" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-55" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="615" y="-665.068" as="sourcePoint" />
-            <mxPoint x="660" y="-665.17" as="targetPoint" />
+            <mxPoint x="334" y="-655.068" as="sourcePoint" />
+            <mxPoint x="379" y="-655.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-56" value="&lt;b&gt;鸟氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="650" y="-680" width="60" height="30" as="geometry" />
+          <mxGeometry x="369" y="-670" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-57" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.839;entryY=1.049;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.312;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-56" target="dSX8d3Et7gaFXjt-a4co-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="-650" as="sourcePoint" />
-            <mxPoint x="570" y="-700" as="targetPoint" />
+            <mxPoint x="239" y="-640" as="sourcePoint" />
+            <mxPoint x="289" y="-690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-58" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.481;exitY=0.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="-720" as="sourcePoint" />
-            <mxPoint x="584" y="-770" as="targetPoint" />
+            <mxPoint x="239" y="-710" as="sourcePoint" />
+            <mxPoint x="303" y="-760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-59" value="&lt;b&gt;4-氨基丁酸（GABA）&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="515" y="-800" width="140" height="30" as="geometry" />
+          <mxGeometry x="234" y="-790" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-60" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.988;exitY=0.08;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.167;entryY=0.733;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="615" y="-739.6" as="sourcePoint" />
-            <mxPoint x="645.86" y="-760.01" as="targetPoint" />
+            <mxPoint x="334" y="-729.6" as="sourcePoint" />
+            <mxPoint x="364.86" y="-750.01" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-61" value="&lt;b&gt;脯氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-782" width="60" height="30" as="geometry" />
+          <mxGeometry x="359" y="-772" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-62" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.012;exitY=0.573;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -763,16 +763,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-63" value="&lt;b&gt;丝氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="-930" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-64" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.012;exitY=0.573;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="-915.17" as="sourcePoint" />
-            <mxPoint x="565" y="-915.17" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="600" y="-1120" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-65" value="&lt;b&gt;L-甲硫氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="565" y="-930" width="90" height="30" as="geometry" />
+          <mxGeometry x="700" y="-1100" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-66" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.03;exitY=0.049;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
