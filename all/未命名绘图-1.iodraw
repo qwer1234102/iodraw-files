@@ -763,14 +763,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-63" value="&lt;b&gt;丝氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-950" width="60" height="30" as="geometry" />
+          <mxGeometry x="490" y="-970" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-65" value="&lt;b&gt;L-甲硫氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="700" y="-1100" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-66" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.03;exitY=0.049;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-23">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-66" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.126;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dSX8d3Et7gaFXjt-a4co-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="-900" as="sourcePoint" />
+            <mxPoint x="446" y="-929" as="sourcePoint" />
             <mxPoint x="480" y="-950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
