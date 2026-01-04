@@ -871,8 +871,8 @@
             <mxPoint x="264" y="-880.0016666666667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-122" value="&lt;b&gt;己酸乙酯&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="960" y="-1250" width="70" height="30" as="geometry" />
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-122" value="&lt;b&gt;己酸乙酯&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="845" y="-1190" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-128" value="&lt;b&gt;2-戊基呋喃&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="785" y="-1080" width="90" height="30" as="geometry" />
@@ -1231,9 +1231,6 @@
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-243" value="2.3.1.84" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="885" y="-1135" width="55" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-251" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="780" y="-1270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-244" value="1.13.11.12" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="715" y="-1085" width="55" height="15" as="geometry" />
