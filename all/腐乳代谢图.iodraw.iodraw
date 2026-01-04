@@ -1108,12 +1108,12 @@
           <mxGeometry x="690" y="-991" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-185" value="&lt;b&gt;多肽&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="135" y="-1130" width="50" height="30" as="geometry" />
+          <mxGeometry x="140" y="-1110" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-187" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="-990" as="sourcePoint" />
-            <mxPoint x="470" y="-1040" as="targetPoint" />
+            <mxPoint x="220" y="-1150" as="sourcePoint" />
+            <mxPoint x="170" y="-1110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
