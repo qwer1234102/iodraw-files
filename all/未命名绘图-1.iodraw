@@ -649,7 +649,7 @@
           <mxGeometry x="474" y="-770" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-34" value="&lt;b&gt;琥珀酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="389" y="-720" width="60" height="30" as="geometry" />
+          <mxGeometry x="394" y="-720" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-35" value="&lt;b&gt;延胡索酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="304" y="-740" width="70" height="30" as="geometry" />
@@ -658,7 +658,17 @@
           <mxGeometry x="290" y="-790" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-37" value="&lt;b&gt;草酰乙酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="384" y="-812" width="70" height="30" as="geometry" />
+          <mxGeometry x="380" y="-812" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-39" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=0.472;entryY=-0.093;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dSX8d3Et7gaFXjt-a4co-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="-720" as="sourcePoint" />
+            <mxPoint x="440" y="-770" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="-720" />
+              <mxPoint x="390" y="-770" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
