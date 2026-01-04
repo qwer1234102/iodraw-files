@@ -569,7 +569,7 @@
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-136" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;&lt;b&gt;酸性蛋白酶、中性蛋白酶&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSX8d3Et7gaFXjt-a4co-4">
           <mxGeometry x="0.3024" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="9" y="33" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.503;exitY=1.056;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-2">
@@ -946,7 +946,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-128" value="&lt;b&gt;2-戊基呋喃&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="-1060" width="90" height="30" as="geometry" />
+          <mxGeometry x="690" y="-1135" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-131" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
