@@ -692,14 +692,8 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-48" value="&lt;b&gt;L-谷氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="-792" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.828;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.019;entryY=0.856;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="-777.4200000000001" as="sourcePoint" />
-            <mxPoint x="706.3299999999999" y="-776.5799999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-50" value="&lt;b&gt;谷氨酸钠&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="705" y="-792" width="70" height="30" as="geometry" />
+          <mxGeometry x="750" y="-792" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-53" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="dSX8d3Et7gaFXjt-a4co-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1153,6 +1147,12 @@
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-208" value="&lt;b&gt;乙醇脂类&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="55" y="-892" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-209" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.014;exitY=0.562;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="-770" as="sourcePoint" />
+            <mxPoint x="780" y="-820" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
