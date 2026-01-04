@@ -1099,7 +1099,7 @@
           <mxGeometry x="920" y="-960" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-179" value="&lt;b style=&quot;text-wrap-mode: nowrap; font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;ko：00260&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;text-wrap-mode: nowrap; font-size: 11px;&quot;&gt;&lt;b&gt;甘氨酸代谢&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="680" y="-990" width="70" height="30" as="geometry" />
+          <mxGeometry x="690" y="-1000" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
