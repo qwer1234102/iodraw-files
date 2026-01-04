@@ -837,10 +837,10 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-85" value="&lt;b&gt;苯丙氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="850" y="-882" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-86" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.49;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.021;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-84" target="dSX8d3Et7gaFXjt-a4co-82">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-86" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.49;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.021;entryY=0.562;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="-900" as="sourcePoint" />
-            <mxPoint x="790" y="-950" as="targetPoint" />
+            <mxPoint x="769.9999999999999" y="-877.8700000000001" as="sourcePoint" />
+            <mxPoint x="799.34" y="-900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-87" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.023;exitY=0.576;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.03;entryY=0.54;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-84" target="dSX8d3Et7gaFXjt-a4co-85">
@@ -849,7 +849,7 @@
             <mxPoint x="790" y="-950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-88" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-88" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.97;exitY=0.607;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.325;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-82" target="dSX8d3Et7gaFXjt-a4co-85">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="740" y="-900" as="sourcePoint" />
             <mxPoint x="790" y="-950" as="targetPoint" />
