@@ -779,8 +779,8 @@
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-68" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="515" y="-925" as="sourcePoint" />
-            <mxPoint x="515.13" y="-955" as="targetPoint" />
+            <mxPoint x="524.83" y="-870" as="sourcePoint" />
+            <mxPoint x="524.96" y="-900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-69" value="&lt;b&gt;L-丙氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
