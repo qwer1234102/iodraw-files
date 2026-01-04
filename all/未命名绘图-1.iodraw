@@ -766,7 +766,7 @@
           <mxGeometry x="510" y="-970" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-65" value="&lt;b&gt;L-甲硫氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-980" width="90" height="30" as="geometry" />
+          <mxGeometry x="610" y="-970" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-66" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.048;entryY=0.736;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dSX8d3Et7gaFXjt-a4co-63">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -787,7 +787,7 @@
           <mxGeometry x="490" y="-870" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-71" value="&lt;b&gt;L-赖氨酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="-990" width="70" height="30" as="geometry" />
+          <mxGeometry x="600" y="-1020" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-73" target="dSX8d3Et7gaFXjt-a4co-67">
           <mxGeometry relative="1" as="geometry" />
