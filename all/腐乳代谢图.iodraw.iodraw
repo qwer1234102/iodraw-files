@@ -569,7 +569,7 @@
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-136" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;&lt;b&gt;酸性蛋白酶、中性蛋白酶&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dSX8d3Et7gaFXjt-a4co-4">
           <mxGeometry x="0.3024" relative="1" as="geometry">
-            <mxPoint x="6" y="-3" as="offset" />
+            <mxPoint x="-164" y="37" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.503;exitY=1.056;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dSX8d3Et7gaFXjt-a4co-2">
@@ -1064,6 +1064,9 @@
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-165" value="&lt;b&gt;ko：00020&lt;/b&gt;&lt;div&gt;&lt;b&gt;三羧酸循环&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="364" y="-755" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-166" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="-1002" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
