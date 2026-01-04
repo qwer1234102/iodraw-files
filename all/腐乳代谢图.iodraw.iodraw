@@ -548,7 +548,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ueiyKJy_TmvnG7xGqcpL" name="第 2 页">
-    <mxGraphModel dx="498" dy="1852" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1573" dy="2278" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1259,8 +1259,8 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-259" value="&lt;b&gt;下降的产物&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="918" y="-700" width="82" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-260" value="&lt;b&gt;酶代谢通路&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="918" y="-657.5" width="82" height="26" as="geometry" />
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-260" value="&lt;b&gt;酶的编号&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="925" y="-657.5" width="69" height="26" as="geometry" />
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-261" value="&lt;b&gt;氨基酸代谢通路&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="910" y="-616" width="108" height="26" as="geometry" />
