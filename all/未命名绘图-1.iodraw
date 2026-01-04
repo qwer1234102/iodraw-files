@@ -1006,7 +1006,7 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-146" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="561" y="-1062.0000000000002" as="sourcePoint" />
-            <mxPoint x="591" y="-1081.99" as="targetPoint" />
+            <mxPoint x="600" y="-1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-147" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.001;entryY=0.598;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dSX8d3Et7gaFXjt-a4co-148">
@@ -1016,7 +1016,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dSX8d3Et7gaFXjt-a4co-148" value="&lt;b&gt;亚油酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="-1080" width="60" height="30" as="geometry" />
+          <mxGeometry x="610" y="-1080" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-149" value="&lt;b&gt;棕榈酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-1112" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
