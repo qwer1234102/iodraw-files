@@ -1003,10 +1003,10 @@
         <mxCell id="dSX8d3Et7gaFXjt-a4co-144" value="&lt;b&gt;游离脂肪酸&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="-1080" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dSX8d3Et7gaFXjt-a4co-145" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="dSX8d3Et7gaFXjt-a4co-146" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="-1010" as="sourcePoint" />
-            <mxPoint x="550" y="-1060" as="targetPoint" />
+            <mxPoint x="561" y="-1062.0000000000002" as="sourcePoint" />
+            <mxPoint x="591" y="-1081.99" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
