@@ -1305,7 +1305,7 @@
         </mxCell>
         <mxCell id="vtmJOidCmiqnGXGufTHP-13" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;Short peptides&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vtmJOidCmiqnGXGufTHP-9">
           <mxGeometry x="-0.27" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="31" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vtmJOidCmiqnGXGufTHP-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;Short peptides&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
