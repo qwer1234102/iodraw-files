@@ -1500,8 +1500,8 @@
             <mxPoint x="744.92" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-54" value="3-Dehydroquinic-acid" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="697.64" y="560" width="94.91" height="30" as="geometry" />
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-54" value="&lt;font face=&quot;Times New Roman&quot;&gt;3-Dehydroquinic-acid&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="697.64" y="550" width="94.91" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
