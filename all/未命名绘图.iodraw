@@ -1614,7 +1614,7 @@
             <mxPoint x="407.5" y="492.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-83" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-83" value="&lt;font face=&quot;Times New Roman&quot;&gt;Acetyl choline&lt;/font&gt;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="478" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
