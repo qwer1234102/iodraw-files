@@ -1399,7 +1399,7 @@
           <mxGeometry x="669.91" y="180" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-24" value="&lt;font face=&quot;Times New Roman&quot;&gt;Linoleic acid&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="181.25" width="100" height="17.5" as="geometry" />
+          <mxGeometry x="770" y="184.38" width="100" height="17.5" as="geometry" />
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1407,10 +1407,10 @@
             <mxPoint x="709.91" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="zFaJCSLFuW8UVZbVtSzi-32">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="839.83" y="198.75" as="sourcePoint" />
-            <mxPoint x="839.83" y="238.75" as="targetPoint" />
+            <mxPoint x="819.83" y="201.88" as="sourcePoint" />
+            <mxPoint x="910" y="243.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;Acetyl-CoA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1439,20 +1439,20 @@
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zFaJCSLFuW8UVZbVtSzi-24" target="zFaJCSLFuW8UVZbVtSzi-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="240" as="sourcePoint" />
-            <mxPoint x="840" y="260" as="targetPoint" />
+            <mxPoint x="740" y="243.13" as="sourcePoint" />
+            <mxPoint x="820" y="263.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-34" value="&lt;font face=&quot;Times New Roman&quot;&gt;Epoxy fatty acid&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="240" width="100" height="30" as="geometry" />
+          <mxGeometry x="770" y="243.13" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;Fatty acid&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="807.5" y="307.5" width="65" height="25" as="geometry" />
+          <mxGeometry x="787.5" y="310.63" width="65" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zFaJCSLFuW8UVZbVtSzi-34" target="zFaJCSLFuW8UVZbVtSzi-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="320" as="sourcePoint" />
-            <mxPoint x="810" y="270" as="targetPoint" />
+            <mxPoint x="740" y="323.13" as="sourcePoint" />
+            <mxPoint x="790" y="273.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vtmJOidCmiqnGXGufTHP-11" target="vtmJOidCmiqnGXGufTHP-11">
