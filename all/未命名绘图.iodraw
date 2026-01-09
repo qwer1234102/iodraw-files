@@ -1713,8 +1713,8 @@
             <mxPoint x="240" y="754.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-109" value="Succinic acid semialdehyde" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="740" width="80" height="30" as="geometry" />
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-109" value="&lt;font face=&quot;Times New Roman&quot;&gt;Succinic acid semialdehyde&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="740" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
