@@ -1422,7 +1422,7 @@
             <mxPoint x="740" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-29" value="Acetyl-CoA" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-29" value="Hexanoyl-CoA" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="310" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
