@@ -1311,12 +1311,6 @@
         <mxCell id="vtmJOidCmiqnGXGufTHP-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;Short peptides&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="125" y="190" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vtmJOidCmiqnGXGufTHP-12" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="190" y="150" as="sourcePoint" />
-            <mxPoint x="350" y="150" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
