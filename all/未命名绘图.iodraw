@@ -1380,7 +1380,7 @@
             <mxPoint x="785" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-20" value="Fatty acid" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;Fatty acid&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="755" y="115" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
