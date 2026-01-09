@@ -1431,8 +1431,8 @@
             <mxPoint x="739.83" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-31" value="Ethyl hexanoate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="709.8299999999999" y="365" width="60" height="30" as="geometry" />
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;Ethyl hexanoate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="694.9200000000001" y="370" width="90.17" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
