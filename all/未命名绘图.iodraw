@@ -1286,43 +1286,43 @@
           <mxGeometry x="485" y="115" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vtmJOidCmiqnGXGufTHP-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;protease&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="50" width="60" height="30" as="geometry" />
+          <mxGeometry x="223.75" y="59.2" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vtmJOidCmiqnGXGufTHP-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vtmJOidCmiqnGXGufTHP-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="150" as="sourcePoint" />
-            <mxPoint x="170" y="120" as="targetPoint" />
+            <mxPoint x="333.75" y="159.2" as="sourcePoint" />
+            <mxPoint x="253.75" y="129.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vtmJOidCmiqnGXGufTHP-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;peptides&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="120" width="60" height="30" as="geometry" />
+          <mxGeometry x="223.75" y="129.2" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vtmJOidCmiqnGXGufTHP-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vtmJOidCmiqnGXGufTHP-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="170" as="sourcePoint" />
-            <mxPoint x="170" y="190" as="targetPoint" />
+            <mxPoint x="333.75" y="179.2" as="sourcePoint" />
+            <mxPoint x="253.75" y="199.2" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vtmJOidCmiqnGXGufTHP-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;Short peptides&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="125" y="200" width="90" height="20" as="geometry" />
+          <mxGeometry x="208.75" y="209.2" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vtmJOidCmiqnGXGufTHP-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="169.75" y="230" as="sourcePoint" />
-            <mxPoint x="169.75" y="270.79998779296875" as="targetPoint" />
+            <mxPoint x="253.5" y="239.2" as="sourcePoint" />
+            <mxPoint x="253.5" y="279.99998779296874" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vtmJOidCmiqnGXGufTHP-15" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Free Amino Acid&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="280" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vtmJOidCmiqnGXGufTHP-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;Eendopeptidase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="190" y="150" width="90" height="30" as="geometry" />
+          <mxGeometry x="273.75" y="159.2" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-1" value="5.499.16" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="207.5" y="90" width="55" height="15" as="geometry" />
+          <mxGeometry x="291.25" y="99.2" width="55" height="15" as="geometry" />
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-2" value="Peptidase" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="205" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="288.75" y="239.2" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vtmJOidCmiqnGXGufTHP-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
