@@ -1413,8 +1413,8 @@
             <mxPoint x="839.83" y="238.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="210" width="60" height="30" as="geometry" />
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;Acetyl-CoA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
