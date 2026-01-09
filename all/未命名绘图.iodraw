@@ -1313,7 +1313,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vtmJOidCmiqnGXGufTHP-15" value="&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Free Amino Acid" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="280" width="160" height="20" as="geometry" />
+          <mxGeometry x="100" y="280" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
