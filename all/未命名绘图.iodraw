@@ -1279,7 +1279,7 @@
         <mxCell id="vtmJOidCmiqnGXGufTHP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="30" width="270" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="vtmJOidCmiqnGXGufTHP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="vtmJOidCmiqnGXGufTHP-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="650" y="30" width="270" height="370" as="geometry" />
         </mxCell>
         <mxCell id="vtmJOidCmiqnGXGufTHP-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Starch&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1490,9 +1490,6 @@
             <mxPoint x="760" y="480" as="sourcePoint" />
             <mxPoint x="745" y="470" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="940" y="440" width="270" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
