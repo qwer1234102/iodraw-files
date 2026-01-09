@@ -1308,9 +1308,12 @@
         </mxCell>
         <mxCell id="vtmJOidCmiqnGXGufTHP-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="169.75" y="220" as="sourcePoint" />
-            <mxPoint x="169.75" y="260.79998779296875" as="targetPoint" />
+            <mxPoint x="169.75" y="230" as="sourcePoint" />
+            <mxPoint x="169.75" y="270.79998779296875" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vtmJOidCmiqnGXGufTHP-15" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
