@@ -1760,7 +1760,7 @@
             <mxPoint x="853" y="777.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-125" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-125" value="&lt;font face=&quot;Times New Roman&quot;&gt;Serine&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="822.5" y="775" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
