@@ -1407,7 +1407,7 @@
             <mxPoint x="740" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="zFaJCSLFuW8UVZbVtSzi-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="839.83" y="198.75" as="sourcePoint" />
             <mxPoint x="839.83" y="238.75" as="targetPoint" />
@@ -1435,7 +1435,7 @@
           <mxGeometry x="694.9200000000001" y="370" width="90.17" height="25" as="geometry" />
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-32" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="815" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="810" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
