@@ -1434,8 +1434,8 @@
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-31" value="&lt;font face=&quot;Times New Roman&quot;&gt;Ethyl hexanoate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="694.9200000000001" y="370" width="90.17" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-32" value="2-Pentylfuran" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="260" width="80" height="30" as="geometry" />
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-32" value="&lt;font face=&quot;Times New Roman&quot;&gt;2-Pentylfuran&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="260" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
