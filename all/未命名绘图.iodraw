@@ -1778,8 +1778,8 @@
             <mxPoint x="852.5" y="845" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-129" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="800" width="60" height="30" as="geometry" />
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-129" value="O-Acetyl-L-serine" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="815" y="850" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
