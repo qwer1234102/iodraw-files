@@ -1730,7 +1730,7 @@
             <mxPoint x="710" y="730" as="sourcePoint" />
             <mxPoint x="530" y="400" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="630" y="730" />
+              <mxPoint x="630" y="710" />
               <mxPoint x="630" y="460" />
               <mxPoint x="530" y="460" />
             </Array>
@@ -1738,12 +1738,12 @@
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-118" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="705.09" y="724.75" as="sourcePoint" />
-            <mxPoint x="725" y="724.75" as="targetPoint" />
+            <mxPoint x="679.9100000000001" y="719.75" as="sourcePoint" />
+            <mxPoint x="699.82" y="719.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-119" value="&lt;font face=&quot;Times New Roman&quot;&gt;Threonine&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="747.5" y="705" width="60" height="30" as="geometry" />
+          <mxGeometry x="705.09" y="705" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-121" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
