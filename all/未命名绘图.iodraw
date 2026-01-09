@@ -1545,7 +1545,7 @@
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-65" value="&lt;font face=&quot;Times New Roman&quot;&gt;Acetyl-CoA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="485" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="440" width="540" height="240" as="geometry" />
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-68" value="&lt;font face=&quot;Times New Roman&quot;&gt;Acetyl-CoA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1738,8 +1738,8 @@
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-118" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="350" y="660" as="sourcePoint" />
-            <mxPoint x="400" y="610" as="targetPoint" />
+            <mxPoint x="750" y="720" as="sourcePoint" />
+            <mxPoint x="775.0899999999999" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
