@@ -1494,11 +1494,14 @@
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-51" value="&lt;font face=&quot;Times New Roman&quot;&gt;L-Aspartic acid-4-Semialdehyde&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="705.09" y="480" width="80" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-53" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-53" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="zFaJCSLFuW8UVZbVtSzi-54">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="510" as="sourcePoint" />
-            <mxPoint x="740" y="550" as="targetPoint" />
+            <mxPoint x="744.92" y="510" as="sourcePoint" />
+            <mxPoint x="744.92" y="550" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-54" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="714.9200000000001" y="535" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
