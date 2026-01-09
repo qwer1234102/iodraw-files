@@ -1324,14 +1324,11 @@
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-2" value="Peptidase" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="205" y="230" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vtmJOidCmiqnGXGufTHP-4" target="zFaJCSLFuW8UVZbVtSzi-4">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vtmJOidCmiqnGXGufTHP-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="525" y="235" as="sourcePoint" />
-            <mxPoint x="515" y="195" as="targetPoint" />
+            <mxPoint x="515" y="185" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;a-D-Glucoe-1-phosphate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="455" y="185" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;Glycolysis&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="155" width="60" height="30" as="geometry" />
