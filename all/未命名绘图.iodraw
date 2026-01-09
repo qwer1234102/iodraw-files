@@ -1642,7 +1642,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-91" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="680" width="810" height="250" as="geometry" />
+          <mxGeometry x="110" y="680" width="600" height="250" as="geometry" />
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-92" value="&lt;font face=&quot;Times New Roman&quot;&gt;L-Glutamate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="493.75" y="740" width="70" height="30" as="geometry" />
@@ -1663,7 +1663,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-97" value="&lt;font face=&quot;Times New Roman&quot;&gt;Proline&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="790" width="60" height="30" as="geometry" />
+          <mxGeometry x="610" y="840" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-98" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.631;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.081;exitY=1.123;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zFaJCSLFuW8UVZbVtSzi-92" target="zFaJCSLFuW8UVZbVtSzi-100">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
