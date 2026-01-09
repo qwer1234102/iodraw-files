@@ -1285,7 +1285,7 @@
         <mxCell id="vtmJOidCmiqnGXGufTHP-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vtmJOidCmiqnGXGufTHP-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;protease&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="vtmJOidCmiqnGXGufTHP-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;protease&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="140" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vtmJOidCmiqnGXGufTHP-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="vtmJOidCmiqnGXGufTHP-5">
