@@ -1787,8 +1787,8 @@
             <mxPoint x="790" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-131" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="710" y="850" width="60" height="30" as="geometry" />
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-131" value="L-Cysteine&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="850" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
