@@ -1303,6 +1303,9 @@
             <mxPoint x="170" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vtmJOidCmiqnGXGufTHP-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;Short peptides&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
