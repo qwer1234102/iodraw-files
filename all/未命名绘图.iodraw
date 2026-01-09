@@ -1368,6 +1368,9 @@
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;Phosphoenolpyruvate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="310" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-17" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pyruvate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
