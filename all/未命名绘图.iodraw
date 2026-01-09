@@ -1273,7 +1273,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vtmJOidCmiqnGXGufTHP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="vtmJOidCmiqnGXGufTHP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="30" width="270" height="540" as="geometry" />
         </mxCell>
         <mxCell id="vtmJOidCmiqnGXGufTHP-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -1288,7 +1288,7 @@
         <mxCell id="vtmJOidCmiqnGXGufTHP-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;protease&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="60" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vtmJOidCmiqnGXGufTHP-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="vtmJOidCmiqnGXGufTHP-7" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="vtmJOidCmiqnGXGufTHP-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="150" as="sourcePoint" />
             <mxPoint x="300" y="100" as="targetPoint" />
