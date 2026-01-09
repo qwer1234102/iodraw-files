@@ -1677,8 +1677,11 @@
             <mxPoint x="530" y="820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-99" value="Ornithine" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="498.75" y="820" width="60" height="30" as="geometry" />
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-99" value="&lt;font face=&quot;Times New Roman&quot;&gt;Ornithine&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-100" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="740" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
