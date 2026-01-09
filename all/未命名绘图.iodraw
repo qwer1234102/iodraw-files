@@ -1521,14 +1521,14 @@
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-58" value="&lt;font face=&quot;Times New Roman&quot;&gt;Phenylalanine&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="620" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zFaJCSLFuW8UVZbVtSzi-58">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-59" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="610" as="sourcePoint" />
-            <mxPoint x="870" y="580" as="targetPoint" />
+            <mxPoint x="869.83" y="620" as="sourcePoint" />
+            <mxPoint x="869.83" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-60" value="Phenylpyruvic acid" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="830" y="550" width="80" height="20" as="geometry" />
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-60" value="&lt;font face=&quot;Times New Roman&quot;&gt;Phenylpyruvic acid&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="555" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
