@@ -1360,7 +1360,7 @@
             <mxPoint x="515" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-14" value="Phosphoenolpyruvate" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-14" value="&lt;font face=&quot;Times New Roman&quot;&gt;Phosphoenolpyruvate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="320" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
