@@ -1548,8 +1548,11 @@
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-64" value="&lt;font face=&quot;Times New Roman&quot;&gt;Phenethyl alcohol&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF0000;dashed=1;fillColor=#dae8fc;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="830" y="420" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-65" value="&lt;font face=&quot;Times New Roman&quot;&gt;Acetyl-CoA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-65" value="&lt;font face=&quot;Times New Roman&quot;&gt;Acetyl-CoA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="990" y="340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-66" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
