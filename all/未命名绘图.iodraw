@@ -1647,6 +1647,12 @@
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-92" value="&lt;font face=&quot;Times New Roman&quot;&gt;L-Glutamate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="493.75" y="700" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-93" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="680" as="sourcePoint" />
+            <mxPoint x="660" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
