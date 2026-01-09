@@ -1294,8 +1294,8 @@
             <mxPoint x="170" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vtmJOidCmiqnGXGufTHP-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="140" width="60" height="30" as="geometry" />
+        <mxCell id="vtmJOidCmiqnGXGufTHP-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;peptides&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="120" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
