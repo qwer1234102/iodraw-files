@@ -1479,8 +1479,8 @@
             <mxPoint x="650" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-44" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="400" width="270" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
