@@ -1512,11 +1512,14 @@
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-56" value="&lt;font face=&quot;Times New Roman&quot;&gt;Tyrosinase&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="715.09" y="620" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-57" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zFaJCSLFuW8UVZbVtSzi-56">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-57" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="650" as="sourcePoint" />
-            <mxPoint x="800" y="610" as="targetPoint" />
+            <mxPoint x="775.0900000000001" y="634.83" as="sourcePoint" />
+            <mxPoint x="830" y="634.83" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="570" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
