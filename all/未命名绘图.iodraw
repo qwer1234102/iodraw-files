@@ -1306,6 +1306,12 @@
         <mxCell id="vtmJOidCmiqnGXGufTHP-11" value="&lt;font face=&quot;Times New Roman&quot;&gt;Short peptides&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="125" y="200" width="90" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="vtmJOidCmiqnGXGufTHP-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="170" as="sourcePoint" />
+            <mxPoint x="300" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
