@@ -1446,8 +1446,8 @@
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-34" value="&lt;font face=&quot;Times New Roman&quot;&gt;Epoxy fatty acid&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="240" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-36" value="Fatty acid" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="815" y="305" width="65" height="25" as="geometry" />
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-36" value="&lt;font face=&quot;Times New Roman&quot;&gt;Fatty acid&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="807.5" y="307.5" width="65" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
