@@ -1416,10 +1416,10 @@
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-27" value="&lt;font face=&quot;Times New Roman&quot;&gt;Acetyl-CoA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zFaJCSLFuW8UVZbVtSzi-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="260" as="sourcePoint" />
-            <mxPoint x="780" y="210" as="targetPoint" />
+            <mxPoint x="740" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
