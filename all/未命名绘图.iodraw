@@ -1790,10 +1790,13 @@
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-131" value="&lt;font face=&quot;Times New Roman&quot;&gt;L-Cysteine&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="697.64" y="850" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-132" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-132" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="720" as="sourcePoint" />
             <mxPoint x="700" y="790" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="790" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
