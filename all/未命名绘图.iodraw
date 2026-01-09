@@ -1593,11 +1593,14 @@
         <mxCell id="zFaJCSLFuW8UVZbVtSzi-78" value="&lt;font face=&quot;Times New Roman&quot;&gt;Fumarate&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="650" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.143;exitY=0.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zFaJCSLFuW8UVZbVtSzi-78">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.143;exitY=0.083;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="zFaJCSLFuW8UVZbVtSzi-78" target="zFaJCSLFuW8UVZbVtSzi-80">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="650" as="sourcePoint" />
-            <mxPoint x="460" y="600" as="targetPoint" />
+            <mxPoint x="400" y="610" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-80" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="580" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
