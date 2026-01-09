@@ -1545,7 +1545,7 @@
             <mxPoint x="870" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zFaJCSLFuW8UVZbVtSzi-64" value="&lt;font face=&quot;Times New Roman&quot;&gt;Phenethyl alcohol&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;dashed=1;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="zFaJCSLFuW8UVZbVtSzi-64" value="&lt;font face=&quot;Times New Roman&quot;&gt;Phenethyl alcohol&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6ea4bf;dashed=1;fillColor=#dae8fc;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="830" y="420" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
